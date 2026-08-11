@@ -8,7 +8,7 @@ A modern hotel management dashboard built with React for managing cabins, bookin
 
 <br />
 
-[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-CLICK%20HERE-22c55e?style=for-the-badge)](https://chipper-marzipan-50d935.netlify.app/)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-CLICK%20HERE-22c55e?style=for-the-badge)](https://the-wild-oasis-one-eosin.vercel.app/)
 
 </div>
 
