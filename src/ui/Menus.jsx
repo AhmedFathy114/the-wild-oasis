@@ -105,7 +105,7 @@ function Toggle({ id }) {
 
 function List({ children, id }) {
   const { openId, position, close } = useContext(MenusContext);
-  const ref = useOutsideClick(close);
+  const ref = useOutsideClick(close,false);
   if (openId !== id) return;
   return createPortal(
     <>
